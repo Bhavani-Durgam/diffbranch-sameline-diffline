@@ -1,5 +1,5 @@
 num = 7
 if num % 2 == 0:
-    print("Even number")
+    print("Even 2 number")
 else:
     print("Odd number")
